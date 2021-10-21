@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning PostgreSQL,GO... \br
+🌱 I’m currently learning PostgreSQL,GO...  
 💬 Ask me about email : franckisses@gmail.com
 
 <!--
