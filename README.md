@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tools
+1. uBlacklist chrome插件，可以在搜索的时候屏蔽掉csdn;
